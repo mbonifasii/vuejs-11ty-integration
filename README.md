@@ -1,2 +1,2 @@
-# Basic Integration: * VueJS & ElevenTy *
+# Basic Integration: *VueJS & 11Ty*
 
